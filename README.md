@@ -11,3 +11,18 @@ This is a Streamlit web application that analyzes financial news sentiment and t
 - Filter by company or source
 - Historical sentiment analysis over time
 
+
+## Setup Instructions
+1. Clone the repository:
+2. 2. Install dependencies:
+3. Run the app:
+
+## Technologies Used
+- Streamlit
+- Plotly for visualizations
+- Pandas for data processing
+- Sentiment analysis
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
